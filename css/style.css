@@ -20,9 +20,8 @@
     content: "";
     width: 75px;
     height: 75px;
-    border: 15px solid #333333;
-    border-top-color: #009578;
-    border-radius: 50%;
+    border-radius: 70%;
+    border-right: 0.3rem solid #000000;
     animation: loading 0.75s ease infinite;
 }
 
